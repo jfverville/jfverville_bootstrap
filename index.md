@@ -19,7 +19,7 @@
 
 ## Jouer de la guitare à l'aide de simulateurs d'amplificateurs
 
-![Image](images\amplitube.jpg)
+![Image](assets\images\amplitube.jpg)
 
 ### Qu'est-ce que ça prend?
 
@@ -31,7 +31,7 @@
 
 ## Apprendre à publier des contenus web gratuitement à l'aide de la plateforme GitHub Pages
 
-![Image](images\github-pages.jpeg)
+![Image](assets\images\github-pages.jpeg)
 
 ### Qu'est-ce que ça prend?
 
@@ -41,7 +41,7 @@
 
 ## Faire du ménage dans mes passwords
 
-![Image](images\Full-PasswordManagerCompare-Updated-3.png)
+![Image](assets\images\Full-PasswordManagerCompare-Updated-3.png)
 
 ### Qu'est-ce que ça prend?
 
