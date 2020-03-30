@@ -30,7 +30,8 @@ plugins:
   - jekyll-sitemap
 
 # A list of the pages to display in the navigation bar
-header_pages: - _pages/about.md
+header_pages: 
+  - _pages/about.md
 
 include:
   - _pages
