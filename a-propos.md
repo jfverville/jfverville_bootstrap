@@ -1,7 +1,6 @@
 ---
-layout: "page"
-title: "A propos"
-permalink: /a-propos/
+layout: default
+title: About
 ---
 
 #A propos
