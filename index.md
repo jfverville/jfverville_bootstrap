@@ -16,6 +16,7 @@
 -->
 ---
 layout: "home"
+---
 
 # Nouveautés
 
