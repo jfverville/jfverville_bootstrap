@@ -3,7 +3,11 @@
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-{{ site.pages | escape }}
+<ul>
+    {% for page in site.pages %}
+        <li><a href="#">{{ page.title }}</a></li>
+    {% endfor %}
+</ul>
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
   <div class="container">
     <a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
