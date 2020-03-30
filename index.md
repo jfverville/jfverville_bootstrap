@@ -15,7 +15,7 @@
 
 -->
 
-# Qu'est-ce qui m'intéresse en ce moment?
+# Nouveautés
 
 ## Jouer de la guitare à l'aide de simulateurs d'amplificateurs
 
