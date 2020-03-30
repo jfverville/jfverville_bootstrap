@@ -14,6 +14,8 @@
 [Link](url) and ![Image](src)
 
 -->
+---
+layout: "home"
 
 # Nouveautés
 
