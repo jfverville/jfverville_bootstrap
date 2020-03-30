@@ -3,13 +3,7 @@
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-<ul>
-    {% for page in site.pages %}
-        {% if page.layout == "default" %}
-            <li>{{ page.title }}</li>
-        {% endif %}
-    {% endfor %}
-</ul>
+
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
   <div class="container">
     <a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
@@ -29,6 +23,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </li>
           <!--{%- endif -%}-->
         {% endfor -%}
+        {% for page in site.pages %}
+            {% if page.layout == "default" %}
+                <li class="nav-item">{{ page.title }}</li>
+            {% endif %}
+        {% endfor %}
         <li class="nav-item">
           <!--<a class="nav-link" href="{{ site.github.repository_url }}">Fork me on Github</a>-->
         </li>
