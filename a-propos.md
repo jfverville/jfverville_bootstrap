@@ -3,7 +3,7 @@ layout: page
 title: A propos
 ---
 
-# A propos
+# Pour connecter
 
 ## Comptes sociaux
 
