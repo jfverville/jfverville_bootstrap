@@ -28,14 +28,9 @@ repository: "jfverville/blog"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  
-include:
-  - _pages
 
 # A list of the pages to display in the navigation bar
 header_pages: 
-  - _pages/about.md
-
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
