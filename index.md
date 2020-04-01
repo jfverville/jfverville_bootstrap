@@ -34,6 +34,7 @@ layout: default
 - Un compte GitHub
 - Un _repository_
 - La façon la plus simple de composer est d'utiliser la syntaxe _Markdown_
+- [Visual Studio Code](https://code.visualstudio.com/) est une bonne option d'édition en local. Il permet de _Commit_, _Push_ et _Pull_ directement depuis l'interface
 
 ## Faire du ménage dans mes passwords
 
