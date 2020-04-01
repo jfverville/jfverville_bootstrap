@@ -12,7 +12,7 @@ layout: default
 
 - Une guitare
 - Une interface audio (une boite qui permet de connecter sa guitare avec le fil _Jack 1/4_ à l'ordinateur via le port USB)
-- Une station audionumérique, acronyme DAW, de l'anglais digital audio workstation (J'utilise Ableton Live 10 lite) et des _plugins_  ou un logiciel dédié (Amplitube, Guitar Rig)
+- Une station audionumérique, acronyme DAW, de l'anglais digital audio workstation (J'utilise [Ableton Live 10 lite](https://www.ableton.com/en/products/live-lite/features/)) et des _plugins_  ou un logiciel dédié (Amplitube, Guitar Rig)
     - Note: On peut utiliser ces logiciels directement dans le DAW
 - Les drivers nécessaires pour que votre interface audio parle directement avec votre ordinateur sans passer par la couche logiciel (J'utilise ASIO)
 
