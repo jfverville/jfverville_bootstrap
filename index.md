@@ -21,9 +21,9 @@ layout: default
 - Certains plugins d'amplificateurs ont un simulateur de cabinet inclus, sinon amplitube gère cela aussi
 
 ### Liens utiles
-- Plugins gratuits(http://www.vst4free.com/)
-- Plugins variés (https://www.pluginboutique.com/)
-- ([Plugins de Cabinets](https://seacowcabs.wordpress.com/)
+- [Plugins gratuits](http://www.vst4free.com/)
+- [Plugins variés](https://www.pluginboutique.com/)
+- [Plugins de Cabinets](https://seacowcabs.wordpress.com/)
 
 ## Apprendre à publier des contenus web gratuitement à l'aide de la plateforme GitHub Pages
 
