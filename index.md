@@ -16,6 +16,15 @@ layout: default
     - Note: On peut utiliser ces logiciels directement dans le DAW
 - Les drivers nécessaires pour que votre interface audio parle directement avec votre ordinateur sans passer par la couche logiciel (J'utilise ASIO)
 
+### Plus de détails sur les amps + cabs
+- Pour que le son de l'amplificateur soit correctement géré, il faut inclure un cabinet dans la stack du DAW. 
+- Certains plugins d'amplificateurs ont un simulateur de cabinet inclus, sinon amplitube gère cela aussi
+
+### Liens utiles
+- Plugins gratuits(http://www.vst4free.com/)
+- Plugins variés (https://www.pluginboutique.com/)
+- ([Plugins de Cabinets](https://seacowcabs.wordpress.com/)
+
 ## Apprendre à publier des contenus web gratuitement à l'aide de la plateforme GitHub Pages
 
 ![Image](assets\images\github-pages.jpeg)
