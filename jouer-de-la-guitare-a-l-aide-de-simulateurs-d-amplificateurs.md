@@ -6,7 +6,7 @@ title: Jouer de la guitare à l'aide de simulateurs d'amplificateurs
 ---
 
 ## Pourquoi se tourner vers les simulateurs
-- Parce que vous avez des enfants, des voisins une conjointe et que ces derniers ne souhaitent pas vous entendre jouer tard le soir ou répéter le même passage 75 fois de suite
+- Parce que vous avez des enfants, des voisins une conjointe et qu'ils ne souhaitent pas vous entendre jouer tard le soir ou répéter le même passage 75 fois de suite
 - Parce que vous voulez cibler vos besoins, experimenter des effets, ajuster votre niveau de saturation sans toujours achaler le gars du magasin de musique
 - Parce que lorsque l'idée géniale frappe, vous voulez être prêt à l'enregistrer et l'envoyer à votre groupe
 
