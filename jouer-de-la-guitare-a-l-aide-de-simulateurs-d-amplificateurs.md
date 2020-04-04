@@ -28,7 +28,13 @@ N'importe quelle guitare qui se branche fera l'affaire
 Une interface audio est une boite qui permet de connecter sa guitare avec le fil _Jack 1/4_ à l'ordinateur via le port USB). Certains modèles comme ceux illustrés ci-dessus sont livrés avec des clés de license pour certains logiciels donc à considérer lors de l'achat.
 
 ### Une station audionumérique
-![Image](assets/images/ableton.jpg#thumbnail)![Image](assets/images/cubase.png#thumbnail)
+<div class="container">
+  <div class="row align-items-end">
+    <div class="col"><img src="assets/images/ableton.jpg" alt="Ableton" /></div>
+    <div class="col"><img src="assets/images/cubase.png" alt="Cubase" /></div>
+  </div>
+</div>
+
 Une station audionumérique, acronyme DAW, de l'anglais digital audio workstation (J'utilise [Ableton Live 10 lite](https://www.ableton.com/en/products/live-lite/features/)) et des _plugins_  ou un logiciel dédié (Amplitube, Guitar Rig)
     - Note: On peut utiliser ces logiciels directement dans le DAW
 
