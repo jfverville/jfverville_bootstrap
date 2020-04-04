@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: "post"
 title: Jouer de la guitare à l'aide de simulateurs d'amplificateurs
 ---
 
