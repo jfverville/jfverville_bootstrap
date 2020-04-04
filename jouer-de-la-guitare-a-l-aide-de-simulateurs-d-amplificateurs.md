@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: Post
 date: 2020-04-04
 author: JF Verville
 title: Jouer de la guitare à l'aide de simulateurs d'amplificateurs
