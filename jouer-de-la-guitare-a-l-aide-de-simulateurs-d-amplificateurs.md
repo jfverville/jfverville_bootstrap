@@ -13,3 +13,7 @@ title: Jouer de la guitare à l'aide de simulateurs d'amplificateurs
 ## Ce que vous avez besoin
 ### Une guitare
 
+### Une interface audio
+![Image](assets\images\axe-io.jpg)
+![Image](assets\images\focusrite.jpg)
+![Image](assets\images\komplete.jpg)
