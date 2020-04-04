@@ -16,10 +16,9 @@ title: Jouer de la guitare à l'aide de simulateurs d'amplificateurs
 ### Une interface audio
 <div class="container">
   <div class="row align-items-end">
-      <div class="col"><img src="/assets/images/axe-io.jpg" alt="Axe IO"></div>
-      <div class="col"><img src="/assets/images/focusrite.jpg" alt="focusrite"></div>
-      <div class="col"><img src="/assets/images/komplete.jpg" alt="komplete"></div>
-    </div>
+    <div class="col"><img src="/assets/images/axe-io.jpg" alt="Axe IO"></div>
+    <div class="col"><img src="/assets/images/focusrite.jpg" alt="focusrite"></div>
+    <div class="col"><img src="/assets/images/komplete.jpg" alt="komplete"></div>
   </div>
 </div>
 
