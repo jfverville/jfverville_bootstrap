@@ -17,9 +17,9 @@ title: Jouer de la guitare à l'aide de simulateurs d'amplificateurs
 <div class="container">
   <div class="row">
     <div class="col-sm align-bottom">
-      <img src="/assets/images/axe-io.jpg" alt="Axe IO" max-width="200px" />
-      <img src="/assets/images/focusrite.jpg" alt="focusrite" width="200px" />
-      <img src="/assets/images/komplete.jpg" alt="komplete" width="200px" />
+      <img src="/assets/images/axe-io.jpg" alt="Axe IO" class="w-30" />
+      <img src="/assets/images/focusrite.jpg" alt="focusrite" class="w-30" />
+      <img src="/assets/images/komplete.jpg" alt="komplete" class="w-30" />
     </div>
   </div>
 </div>
