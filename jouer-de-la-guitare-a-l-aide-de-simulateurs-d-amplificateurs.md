@@ -1,5 +1,6 @@
 ---
-layout: "post"
+layout: post"
+date: 2020-04-04
 title: Jouer de la guitare à l'aide de simulateurs d'amplificateurs
 ---
 
