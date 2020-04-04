@@ -16,13 +16,13 @@ title: Jouer de la guitare à l'aide de simulateurs d'amplificateurs
 ### Une interface audio
   <div class="row">
     <div class="col-sm">
-      ![Image](assets\images\axe-io.jpg)
+      <img src="assets\images\axe-io.jpg" alt="Axe IO" />
     </div>
     <div class="col-sm">
-      ![Image](assets\images\focusrite.jpg)
+      <img src="assets\images\focusrite.jpg" alt="focusrite" />
     </div>
     <div class="col-sm">
-      ![Image](assets\images\komplete.jpg)
+      <img src="assets\images\komplete.jpg" alt="komplete" />
     </div>
   </div>
 
