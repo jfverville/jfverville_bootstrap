@@ -12,6 +12,8 @@ title: Jouer de la guitare à l'aide de simulateurs d'amplificateurs
 
 ## Ce que vous avez besoin
 ### Une guitare
+![Image](assets/images/guitar.jpeg)
+N'importe quelle guitare qui se branche fera l'affaire
 
 ### Une interface audio
 <div class="container">
@@ -21,6 +23,10 @@ title: Jouer de la guitare à l'aide de simulateurs d'amplificateurs
     <div class="col"><img src="/assets/images/komplete.jpg" alt="komplete"></div>
   </div>
 </div>
+
+### Une station audionumérique
+Une station audionumérique, acronyme DAW, de l'anglais digital audio workstation (J'utilise [Ableton Live 10 lite](https://www.ableton.com/en/products/live-lite/features/)) et des _plugins_  ou un logiciel dédié (Amplitube, Guitar Rig)
+    - Note: On peut utiliser ces logiciels directement dans le DAW
 
 
 
