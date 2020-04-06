@@ -29,7 +29,7 @@ N'importe quelle guitare qui se branche fera l'affaire
     </div>
     <div class="col-md-4">
       <div class="card mb-4 shadow-sm">
-        <img src="assets/images/focusrite.jpg" alt="Focusrite />
+        <img src="assets/images/focusrite.jpg" alt="Focusrite" />
         <div class="card-body">
           <p class="card-text">2i2 par Focusrite. Donne accès à plusieurs logiciels dont Ableton Live Lite</p>
         </div>
