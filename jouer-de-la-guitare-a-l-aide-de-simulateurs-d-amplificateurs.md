@@ -18,6 +18,35 @@ N'importe quelle guitare qui se branche fera l'affaire
 
 ### Une interface audio
 <div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      <div class="card mb-4 shadow-sm">
+        <img src="assets/images/axe-io.jpg" alt="Axe IO" />
+        <div class="card-body">
+          <p class="card-text">Axe IO by Native Instruments.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="card mb-4 shadow-sm">
+        <img src="assets/images/axe-io.jpg" alt="Axe IO" />
+        <div class="card-body">
+          <p class="card-text">Axe IO by Native Instruments.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="card mb-4 shadow-sm">
+        <img src="assets/images/axe-io.jpg" alt="Axe IO" />
+        <div class="card-body">
+          <p class="card-text">Axe IO by Native Instruments.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
   <div class="row align-items-end">
     <div class="col"><img src="assets/images/axe-io.jpg" alt="Axe IO" /></div>
     <div class="col"><img src="assets/images/focusrite.jpg" alt="focusrite" /></div>
