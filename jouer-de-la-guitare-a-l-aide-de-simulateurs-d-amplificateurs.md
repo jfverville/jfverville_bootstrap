@@ -17,6 +17,7 @@ title: Jouer de la guitare à l'aide de simulateurs d'amplificateurs
 N'importe quelle guitare qui se branche fera l'affaire
 
 ### Une interface audio
+<!--
 <div class="container">
   <div class="row">
     <div class="col-md-4">
@@ -45,8 +46,8 @@ N'importe quelle guitare qui se branche fera l'affaire
     </div>
   </div>
 </div>
+-->
 
-<!--
 <div class="container">
   <div class="row align-items-end">
     <div class="col"><img src="assets/images/axe-io.jpg" alt="Axe IO" /></div>
@@ -54,7 +55,7 @@ N'importe quelle guitare qui se branche fera l'affaire
     <div class="col"><img src="assets/images/komplete.jpg" alt="komplete" /></div>
   </div>
 </div>
--->
+
 
 Une interface audio est une boite qui permet de connecter sa guitare avec le fil _Jack 1/4_ à l'ordinateur via le port USB. Certains modèles comme ceux illustrés ci-dessus sont livrés avec des clés de license pour certains logiciels donc à considérer lors de l'achat.
 
