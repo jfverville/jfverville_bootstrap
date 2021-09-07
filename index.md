@@ -35,6 +35,7 @@ layout: default
 - Un _repository_
 - La façon la plus simple de composer est d'utiliser la syntaxe _Markdown_
 - [Visual Studio Code](https://code.visualstudio.com/) est une bonne option d'édition en local. Il permet de _Commit_, _Push_ et _Pull_ directement depuis l'interface
+- Pour créer un repository directement depuis VS Code sans en créer un au préalable dans GitHub, simplement cliquer sur "Publish to GitHub" (https://stackoverflow.com/questions/45557340/is-it-possible-to-create-github-repository-for-my-project-in-visual-studio-code)
 
 ## Faire du ménage dans mes passwords
 
